@@ -1,6 +1,6 @@
 FROM        python:3.13-rc-bullseye
 
-LABEL       author="Software-noob" maintainer="admin@softwarenoob.com"
+LABEL       author="RidoXd-Bot" maintainer="ridonursipa0@gmail.com"
 LABEL       org.opencontainers.image.source="https://github.com/Software-Noob/pterodactyl-images"
 LABEL       org.opencontainers.image.licenses="MIT"
 
