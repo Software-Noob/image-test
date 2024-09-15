@@ -55,4 +55,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           file: ./java-oracle-graalvm/${{ matrix.tag }}/Dockerfile
           push: true
-          tags: ghcr.io/softwarenoob/pterodactyl-images:java_${{ matrix.tag }}_oracle_graalvm
+          tags: ghcr.io/software-noob/pterodactyl-images:java_${{ matrix.tag }}_oracle_graalvm
