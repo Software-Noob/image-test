@@ -26,11 +26,9 @@ jobs:
       fail-fast: false
       matrix:
         tag:
-          #- 8
-          #- 11
-          #- 17
+          - 17
           - 21
-          #- 22
+          - 22
     steps:
       - name: Git checkout for Github repository workspace
         uses: actions/checkout@v4
@@ -57,4 +55,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           file: ./java-oracle-graalvm/${{ matrix.tag }}/Dockerfile
           push: true
-          tags: ghcr.io/minionguyjpro/pterodactyl-images:java_${{ matrix.tag }}_oracle_graalvm
+          tags: ghcr.io/softwarenoob/pterodactyl-images:java_${{ matrix.tag }}_oracle_graalvm
