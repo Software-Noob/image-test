@@ -25,6 +25,8 @@ Navigate to `Admin Panel -> Nests -> Select your egg`. Add Docker image URL(s) f
 | [Java GraalVM](https://github.com/Software-Noob/pterodactyl-images#java-graalvm-amd64arm64)                 | AMD64, ARM64        |
 | [Java Liberica](https://github.com/Software-Noob/pterodactyl-images#java-liberica-amd64arm64)               | AMD64, ARM64        |
 | [Java OpenJ9](https://github.com/Software-Noob/pterodactyl-images#java-openj9-amd64)                        | AMD64               |
+| [Java Oracle GraalVM](https://github.com/Software-Noob/pterodactyl-images#java-oracle-graalvm-amd64arm64)                        
+| AMD64, ARM64        |
 | [Java Shenandoah](https://github.com/Software-Noob/pterodactyl-images#java-shenandoah-amd64arm64)           | AMD64, ARM64        |
 | [Node.js](https://github.com/Software-Noob/pterodactyl-images#nodejs-amd64arm64)                            | AMD64, ARM64        |
 | [Python](https://github.com/Software-Noob/pterodactyl-images#python-amd64arm64)                             | AMD64, ARM64        |
