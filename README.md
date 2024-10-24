@@ -1,7 +1,3 @@
-# This repository is not maintained
-
-I no longer use the specified game panels and thus, do not need these images. Feel free to fork and add your own. Thanks!
-
 ## Pelican/Pterodactyl/WISP Docker Images
 
 Docker images that can be used with the Pelican/Pterodactyl/WISP Game Panel. You can request more images by opening a new issue. These are mostly created for myself.
